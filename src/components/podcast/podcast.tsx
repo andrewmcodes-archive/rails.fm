@@ -1,6 +1,4 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
-import React, { ReactNode } from 'react'
+import React from 'react'
 
 interface PodcastProps {
   name?: string
@@ -25,7 +23,7 @@ export const Podcast = ({
       <div className='flex items-center justify-center'>
         <img src={image} className='w-64' />
       </div>
-      <div className='mt-5'>
+      <div className='pt-4 mt-4 border-t'>
         <a
           target='_blank'
           rel='noopener noreferrer'

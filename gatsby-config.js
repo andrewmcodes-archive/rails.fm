@@ -62,7 +62,7 @@ module.exports = {
       options: {
         tailwind: true,
         purgeOnly: [`src/css/style.css`],
-        whitelist: [`h-12`],
+        whitelist: [`h-48`],
       },
     },
     `gatsby-plugin-offline`,
