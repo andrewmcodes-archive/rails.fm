@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Ruby Blend",
+    "description": "The Ruby Blend is a new Ruby focused podcast bringing you panel discussions, guest interviews, and much more to keep you up to date on what’s happening in the Ruby development community mixed with sprinkles from other developer communities.",
+    "url": "https://the-ruby-blend.fireside.fm",
+    "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9d234c4f-f9dd-4358-83a0-c1d4663ae442/cover.jpg?v=3"
+  },
+  {
+    "name": "Remote Ruby",
+    "description": "Born out of a failed online Ruby meetup, Remote Ruby is a podcast by three Rubyists who enjoy talking about web development and the Ruby programming language.",
+    "url": "https://remoteruby.transistor.fm",
+    "image": "https://images.transistor.fm/file/transistor/images/show/112/full_1559164364-artwork.jpg"
+  },
+  {
+    "name": "Ruby Rogues",
+    "description": "A weekly discussion by Ruby developers about programming, life, and careers.",
+    "url": "https://devchat.tv/ruby-rogues/",
+    "image": "https://s3.amazonaws.com/devchat.tv/MasterRubyFeed.jpg"
+  },
+  {
+    "name": "Rails with Jason",
+    "description": "On Rails with Jason, Jason Swett talks with Rails developers about how they work with Rails. Guests include people like Ben Orenstein and Noel Rappin.",
+    "url": "https://www.codewithjason.com/rails-with-jason-podcast",
+    "image": "https://media.simplecast.com/podcast/image/10758/1555288279-artwork.jpg"
+  }
+]
