@@ -12,6 +12,18 @@
     "image": "https://images.transistor.fm/file/transistor/images/show/112/full_1559164364-artwork.jpg"
   },
   {
+    "name": "Ruby on Rails Podcast",
+    "description": "The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails,open source software, and the programming profession. Hosted by Brittany Martin.",
+    "url": "http://5by5.tv/rubyonrails",
+    "image": "http://icebox.5by5.tv/images/broadcasts/67/cover.jpg"
+  },
+  {
+    "name": "The Bike Shed",
+    "description": "On The Bike Shed, hosts Chris Toomey &amp; Steph Viccari discuss their development experience and challenges at thoughtbot with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.",
+    "url": "https://www.bikeshed.fm/",
+    "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover.jpg?v=2"
+  },
+  {
     "name": "Ruby Rogues",
     "description": "A weekly discussion by Ruby developers about programming, life, and careers.",
     "url": "https://devchat.tv/ruby-rogues/",

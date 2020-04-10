@@ -6,6 +6,7 @@ import { Container } from '../components/container'
 import { Podcasts } from '../components/podcasts'
 import { Canberra } from '../components/canberra'
 import { SpringFadeUp } from '../utils/animations'
+import Logo from '../assets/svg/logo.svg'
 
 export default () => {
   return (
@@ -13,6 +14,9 @@ export default () => {
       <Canberra title='Home' />
 
       <Banner>
+        <div className='flex items-center flex-shrink-0 mb-12'>
+          <Logo />
+        </div>
         <h1 className='text-3xl font-extrabold leading-8 tracking-tight text-center text-gray-900 sm:text-6xl sm:leading-10'>
           Rails.fm
         </h1>

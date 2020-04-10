@@ -30,7 +30,7 @@ export const Podcast = ({
           target='_blank'
           rel='noopener noreferrer'
           href={url}
-          className='text-lg font-medium leading-6 text-gray-900'
+          className='text-lg font-medium leading-6 text-gray-900 underline'
         >
           {name}
         </a>
