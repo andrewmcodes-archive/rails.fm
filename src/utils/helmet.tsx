@@ -1,7 +1,6 @@
 const title = 'Rails.fm'
 const description =
-  'An opinionated GatsbyJS starter using TypeScript, styled-components, React String and React Spring.'
-
+  'Listen to news, interviews, and discussions about Ruby & Rails.'
 const favicon = 'static/favicon.png'
 const share = 'static/share.png'
 
